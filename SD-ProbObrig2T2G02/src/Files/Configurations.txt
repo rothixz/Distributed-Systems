@@ -1,0 +1,6 @@
+AssaultParty0 mota-pc 22223 
+AssaultParty1 mota-pc 22224 
+Museum mota-pc 22225 
+ConcentrationSite mota-pc 22221 
+ControlCollectionSite mota-pc 22222 
+Logger mota-pc 22220
